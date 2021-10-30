@@ -1,4 +1,4 @@
-module podcast
+module github.com/disharjayanth/gin-html-css-bundler
 
 go 1.17
 
